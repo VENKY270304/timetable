@@ -1,3 +1,23 @@
+# Experiment_Time_Table
+
+## AIM
+To Write a html webpage page to display your timetable.
+
+# ALGORITHM
+### STEP 1
+create a simple table using table tag
+
+### STEP 2
+Add header row using th tag
+
+### STEP 3
+Add your timetable
+
+### STEP 4
+Execute the program
+
+# CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +43,7 @@
 
 <br>
 <table  width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<h3 align="center"> SLOT TIME TABLE - VENKATESAN.M (212222040177)</h3>
+<h3 align="center"> SLOT TIME TABLE - SHREE RAM R (212222040154)</h3>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">8-10</th>
@@ -117,3 +137,12 @@
 </div>
 </body>
 </html>
+```
+
+# OUPUT
+
+![TIME_TABLE](timetable.png)
+
+
+# RESULT
+The program for creating slot time table is completed successfully
